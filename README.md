@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Brau Website</title>
+  <title> Brau Website </title>
   <style>
     /* Add styles for the website layout and design here */
     header {
